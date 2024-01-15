@@ -20,3 +20,8 @@ git commit -m "file_name"
 git log
 git log --oneline
 ```
+
+Переключение на другую ветку репозитория
+```sh
+git checkout branch
+```
