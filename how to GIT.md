@@ -26,4 +26,7 @@ git log --oneline
 git checkout branch
 ```
 
-
+Возвращение на последнее состояние
+```sh
+git checkout master
+```
