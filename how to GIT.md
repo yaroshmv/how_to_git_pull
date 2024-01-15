@@ -15,7 +15,7 @@ git add
 git commit -m "file_name"
 ```
 
-Показать состояние новых версий проекта
+Выведение в список всех совершенных коммитов
 ```sh
 git log
 git log --oneline
@@ -25,3 +25,5 @@ git log --oneline
 ```sh
 git checkout branch
 ```
+
+
