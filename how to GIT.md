@@ -30,3 +30,8 @@ git checkout branch
 ```sh
 git checkout master
 ```
+
+Отражение изменений с момента последнего коммита
+```sh
+git diff
+```
