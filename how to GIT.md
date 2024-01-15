@@ -14,3 +14,9 @@ git add
 ```sh
 git commit -m "file_name"
 ```
+
+Показать состояние новых версий проекта
+```sh
+git log
+git log --oneline
+```
